@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single" android:id="@+id/base">
+        <item android:enabled="false"
+            android:title=" " />
+        <item android:enabled="false"
+            android:title=" " />
+        <item android:enabled="false"
+            android:title=" " />
+        <item android:enabled="false"
+            android:title=" " />
+
+        <item
+            android:id="@+id/patient_info"
+            android:icon="@drawable/patient"
+            android:title="Patient Information" />
+        <item
+            android:id="@+id/member_info"
+            android:icon="@drawable/family"
+            android:title="Family Member" />
+        <item
+            android:id="@+id/doctor_info"
+            android:icon="@drawable/doctor"
+            android:title="Doctor" />
+        <item
+            android:id="@+id/meal_schedule"
+            android:icon="@drawable/meal"
+            android:title="Meal Schedule" />
+        <item
+            android:id="@+id/medicine_schedule"
+            android:icon="@drawable/pills"
+            android:title="Medicine Schedule" />
+        <item
+            android:id="@+id/prescription"
+            android:icon="@drawable/prescription"
+            android:title="Prescriptions" />
+        <item
+            android:id="@+id/medical_history"
+            android:icon="@drawable/med_history"
+            android:title="Medical History" />
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/med_history"
+            android:title="Logout" />
+    </group>
+    <item android:title="E-Services">
+        <menu>
+            <group android:checkableBehavior="single" android:id="@+id/eservices" >
+                <item
+                    android:id="@+id/clinics"
+                    android:icon="@drawable/hospital"
+                    android:title="Nearby Clinics" />
+                <item
+                    android:id="@+id/pharmacies"
+                    android:icon="@drawable/medicine"
+                    android:title="Nearby Pharmacies" />
+                <item
+                    android:id="@+id/ambulance"
+                    android:icon="@drawable/ambulance"
+                    android:title="Ambulance" />
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>

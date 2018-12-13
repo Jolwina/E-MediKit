@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E-Medicare</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="pre_post">
+        <item>Pre Meal</item>
+        <item>Post Meal</item>
+    </string-array>
+
+    <string-array name="MedType">
+        <item>Dose</item>
+        <item>Syrup</item>
+        <item>Injection</item>
+    </string-array>
+    <string-array name="DocName">
+        <item>Jolwina Fernandes</item>
+        <item>Alisha Lotlekar</item>
+        <item>Yogeeta Shirodker</item>
+    </string-array>
+
+</resources>

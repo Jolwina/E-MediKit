@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "390134934268",
+    "firebase_url": "https://emedicare-71db5.firebaseio.com",
+    "project_id": "emedicare-71db5",
+    "storage_bucket": "emedicare-71db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390134934268:android:03264ad4405a0e77",
+        "android_client_info": {
+          "package_name": "com.mca.alisha.e_medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390134934268-3bj4d1n495rget12oq360cl7mqs324vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mca.alisha.e_medicare",
+            "certificate_hash": "7160c2795d3add449d676dfd9681ee683b303303"
+          }
+        },
+        {
+          "client_id": "390134934268-8sg3243gukg731i8c2akv92lsmqggme4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvghv8YDL2AF4xm6PJvJuVn1fzdlU9-OQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390134934268-8sg3243gukg731i8c2akv92lsmqggme4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
